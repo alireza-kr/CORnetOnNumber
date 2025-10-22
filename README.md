@@ -1,4 +1,4 @@
-# CORnet On Numbers
+# Number-Detector Units in CORnet
 
 Code from our NeurIPS 2024 ([Behavioral ML](https://sites.google.com/view/behavioralml/)) paper investigating how pruning in CORnet challenges the role of number-detector units in CNN-based representations of numerosity. 
 
